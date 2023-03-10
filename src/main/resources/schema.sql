@@ -1,0 +1,7 @@
+CREATE TABLE T_USER (
+     id   INTEGER      NOT NULL AUTO_INCREMENT,
+     last_name VARCHAR(128) NOT NULL,
+     first_name VARCHAR(128) NOT NULL,
+     email VARCHAR(128) NOT NULL,
+     PRIMARY KEY (id)
+);

@@ -1,0 +1,11 @@
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Smith', 'James', 's.j@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Johnson', 'Robert', 'j.r@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Williams', 'Thomas', 'w.t@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Brown', 'Paul', 'b.p@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Jones', 'James', 'j.j@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Garcia', 'William', 'g.w@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Davis', 'Richard', 'd.r@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Rodriguez', 'Daniel', 'r.d@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Martinez', 'Robert', 'm.r@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Anderson', 'William', 'a.w@my.domain.com');
+INSERT INTO T_USER (last_name, first_name, email) VALUES ('Scott', 'Steven', 's.s@my.domain.com');
